@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "milize.tokaitokyo.test",
+      "sha256_cert_fingerprints": [
+        "22:21:86:60:4D:85:22:3F:B1:61:46:FA:54:53:B4:B7:54:92:FB:01:13:64:0D:6C:5B:48:CD:DE:99:C8:D5:B8"
+      ]
+    }
+  }
+]
